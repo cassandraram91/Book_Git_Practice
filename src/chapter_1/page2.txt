@@ -4,4 +4,7 @@ this is page 2 of chapter 1
 
 our second file
 
-now we have git enabled
+had a good idea, so I came back
+
+this is new text for this page
+
